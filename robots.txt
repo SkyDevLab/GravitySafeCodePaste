@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://skyrunner-dev-ops.github.io/GravitySafeCodePaste/sitemap.xml
