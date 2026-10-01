@@ -6,7 +6,7 @@ Gravity Safe Code Paste is a client-side developer security utility that helps s
 
 ## 🚀 Live Demo
 
-https://skyrunner-dev-ops.github.io/GravitySafeCodePaste/
+https://skydevlab.github.io/GravitySafeCodePaste/
 
 ## ✨ What Gravity Does
 
@@ -117,7 +117,7 @@ https://github.com/SkyDevLab/GravitySafeCodePaste
 
 Live site:
 
-https://skyrunner-dev-ops.github.io/GravitySafeCodePaste/
+https://skydevlab.github.io/GravitySafeCodePaste/
 
 ## 🤝 Contributing
 
@@ -134,3 +134,10 @@ Always review sanitized output before sharing sensitive code or configuration.
 ## 📄 License
 
 Add the project's chosen license here when finalized.
+
+
+## 👤 Author & Project Identity
+
+**Gravity Safe Code Paste** is created and maintained by **Surya Pratap Singh (SkyDevLab)**.
+
+GitHub: https://github.com/SkyDevLab
