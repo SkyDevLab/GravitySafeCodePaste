@@ -1,5 +1,8 @@
 # Gravity Safe Code Paste 🛡️
 
+[![GitHub](https://img.shields.io/badge/GitHub-SkyDevLab%2FGravitySafeCodePaste-181717?logo=github)](https://github.com/SkyDevLab/GravitySafeCodePaste)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-blue?logo=github)](https://skydevlab.github.io/GravitySafeCodePaste/)
+
 **Paste freely. Share safely.**
 
 Gravity Safe Code Paste is a client-side developer security utility that helps sanitize code, configuration, and SQL before sharing it with teammates, AI assistants, GitHub issues, forums, or other public/private channels.
